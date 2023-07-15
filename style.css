@@ -1,0 +1,95 @@
+body { /* This is the CSS for body */
+    position: relative;
+    min-width: 900px;
+    /*overflow: hidden;  Overflow set to hidden. Any elements outside of the window will not be shown */
+    height: 100%; /* Height set to 100% means the body will extend from the top of the window to the bottom */
+    max-height: 100%; /* Maximum height is limited to 100% */
+    font-family: sans-serif; /* Font used in body is Montserrat */
+    line-height: 1.5em; /* Line spacing is set to 1.5em */
+    font-size: 15px; /* Font size set to 18px */
+    background-color: lightgray;
+}
+
+#saved{
+
+}
+
+#title{
+    text-align:center;
+}
+
+#img-div{
+    display: flex;
+    width: 60%;
+    height: 55%;
+    background: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 30px auto;
+
+
+}
+
+#image{
+    max-width: 100%;
+    min-height: 89%;
+    min-width: 100%;
+    max-height: 89%;
+
+
+
+}
+
+main{
+    text-align: center;
+}
+
+#tribute-info{
+    margin-top: 50px;
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+}
+
+ul{
+    text-align: justify;
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+
+}
+
+li{
+    margin: 15px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
